@@ -1,2 +1,4 @@
 # learning_cpp
-A test project for learning c++ and the maya api
+A git for learning c++ and the maya api.
+
+Also learning how to use github.
